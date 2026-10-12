@@ -1,2 +1,2 @@
 # Obibest-
-Publisher books, apps and web design 
+Publisher, books, apps and web design 
